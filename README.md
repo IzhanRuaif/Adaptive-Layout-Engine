@@ -4,7 +4,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-🚀 **Live Deployment:** https://IzhanRuaif.github.io/Adaptive-Layout-Engine-Assignment
+🚀 **Live Deployment:** [https://IzhanRuaif.github.io/Adaptive-Layout-Engine-Assignment](https://izhanruaif.github.io/Adaptive-Layout-Engine-Assignment)
 
 📈 **Algorithm Math (Desmos):** https://www.desmos.com/calculator/qygdlculkf
 
